@@ -1,0 +1,21 @@
+/*
+Reset CSS
+*/
+*{
+    margin: 0;
+}
+
+
+.logo{
+    display: flex;
+    align-items: center;
+    margin:1em  
+}
+
+#logo-img{
+    width: 24px;
+    padding-right: 0.75em;
+}
+
+
+
